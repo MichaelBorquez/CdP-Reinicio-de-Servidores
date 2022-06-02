@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Productivo</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://sgc-ara.aguas.local/'</initValue>
+      <name>URL_SGC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.aguasaraucania.cl/index'</initValue>
+      <name>URL_SitioWeb</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sispec.aguasnuevas.cl/'</initValue>
+      <name>URL_SISPEC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sisbie.aguasnuevas.cl/'</initValue>
+      <name>URL_Bienestar</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
