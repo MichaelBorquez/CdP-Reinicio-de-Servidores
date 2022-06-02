@@ -29,4 +29,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Sitio Web/Consulta datos requerimientos</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>7bed1ad0-4815-4128-a43c-6de1dba8c4e1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sitio Web/Verificar Solicitud Factibilidad</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

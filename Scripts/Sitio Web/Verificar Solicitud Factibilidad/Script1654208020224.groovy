@@ -19,21 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl(GlobalVariable.URL_SitioWeb)
+
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://www.aguasaraucania.cl/index')
+WebUI.click(findTestObject('Object Repository/Page_Aguas Araucana/a_Ingreso nuevos clientes'))
 
-WebUI.setText(findTestObject('Page_Aguas Araucana/input_PAGA AQU_rut1'), '15.249.142-5')
+WebUI.click(findTestObject('Object Repository/Page_Ingreso nuevos clientes/a_Solicitud de factibilidad online'))
 
-WebUI.setEncryptedText(findTestObject('Page_Aguas Araucana/input_PAGA AQU_pass1'), 'aeHFOx8jV/A=')
-
-WebUI.click(findTestObject('Object Repository/Page_Aguas Araucana/input_PAGA AQU_enviar'))
-
-T1 = WebUI.getText(findTestObject('Object Repository/Page_Ficha comercial/td_Pago empresas externas - Web Pay - Email'))
-
-if (T1.length() == 0) {
-    assert false
-}
+WebUI.verifyElementText(findTestObject('Page_Solicitud de factibilidad/div_SOLICITUD DE FACTIBILIDAD'), 'SOLICITUD DE FACTIBILIDAD')
 
 WebUI.closeBrowser()
 
