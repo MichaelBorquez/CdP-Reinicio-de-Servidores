@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Eventos Masivos1</name>
+   <tag></tag>
+   <elementGuidId>8d047cdd-9e4f-49a6-aa88-753dac1042cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_Header1_xmenMenuHor_DXI1_T']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_Header1_xmenMenuHor_DXI1_T > span.dx-vam</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac347828-204a-4468-9760-a72747c41d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-vam</value>
+      <webElementGuid>b2a27eaf-7eea-4fad-a21f-e22a65fb5508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eventos Masivos</value>
+      <webElementGuid>29cc5419-2082-4571-a52b-b235bfce569a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_Header1_xmenMenuHor_DXI1_T&quot;)/span[@class=&quot;dx-vam&quot;]</value>
+      <webElementGuid>f166b82a-7774-447d-94df-b236fee24cea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_Header1_xmenMenuHor_DXI1_T']/span</value>
+      <webElementGuid>0be43c01-2ce8-4f0f-a24c-56a1b878688e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administración'])[1]/following::span[1]</value>
+      <webElementGuid>e65774e8-8714-4e15-a985-5e725114f3b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Rol: Administrador] [Usuario(a): Gonzalez Gutierrez Luis Marcelo]'])[1]/following::span[2]</value>
+      <webElementGuid>224db2fe-dddd-4560-b1ea-3972533b3d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultas'])[1]/preceding::span[1]</value>
+      <webElementGuid>9872f6df-dae7-4213-a187-39b560269622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parámetros de la Empresa'])[1]/preceding::span[3]</value>
+      <webElementGuid>0ec3c3a4-4027-4d80-b806-c7e237c13d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Eventos Masivos']/parent::*</value>
+      <webElementGuid>82d4ebbc-2fb6-441f-ac16-e10ebbb732ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/span</value>
+      <webElementGuid>7e384838-28ad-4882-be46-2b49815dfe02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Eventos Masivos' or . = 'Eventos Masivos')]</value>
+      <webElementGuid>66145152-ec18-44c1-b5ee-1c0efad03861</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

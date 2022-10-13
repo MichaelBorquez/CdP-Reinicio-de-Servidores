@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Desde_dxic</name>
+   <tag></tag>
+   <elementGuidId>8aa18577-7d63-40a4-b1e0-0d659074dc38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ASPxRoundPanel2_xtxtNoDocumentoDesde']/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ASPxRoundPanel2_xtxtNoDocumentoDesde > tbody > tr > td.dxic</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ac74c290-79cc-48f3-8a5d-55fe0fe33a3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxic</value>
+      <webElementGuid>f7d8e540-0447-42a9-a88e-0b1356456438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ASPxRoundPanel2_xtxtNoDocumentoDesde&quot;)/tbody[1]/tr[1]/td[@class=&quot;dxic&quot;]</value>
+      <webElementGuid>3c4327af-a9e9-4def-9794-675ef37eed25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ASPxRoundPanel2_xtxtNoDocumentoDesde']/tbody/tr/td</value>
+      <webElementGuid>d5d757ff-4842-4391-a8a2-304bc9de162e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desde'])[1]/following::td[3]</value>
+      <webElementGuid>84dd0474-8596-4a66-a442-a8e2a98336bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N° Documento'])[1]/following::td[7]</value>
+      <webElementGuid>d7d1d9ff-18db-41f8-abd5-10a806bfcedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasta'])[1]/preceding::td[4]</value>
+      <webElementGuid>c8314974-2f18-456e-b692-94de1d6ae0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inserto de Data Variable'])[1]/preceding::td[13]</value>
+      <webElementGuid>1d9f2666-32d4-487c-8925-f1420bb8cf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/table/tbody/tr/td/table/tbody/tr[2]/td[3]/table/tbody/tr/td/table/tbody/tr/td</value>
+      <webElementGuid>b1df4451-d6e7-47b2-b4ca-e0361b8faa91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Lote 1_1 (1)</name>
+   <tag></tag>
+   <elementGuidId>18f4dbf1-13fc-4e95-8790-ea62f2855e61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='xrpnlLote_xddlLoteHasta_DDD_L_LBI0T0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#xrpnlLote_xddlLoteHasta_DDD_L_LBI0T0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>dff278c6-ba32-4f74-8b3e-1e3254d09c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxeListBoxItem_Office2010Blue dxeListBoxItemHover_Office2010Blue dxeListBoxItemSelected_Office2010Blue</value>
+      <webElementGuid>8142eafa-668a-48dd-b33e-a93a55a020c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xrpnlLote_xddlLoteHasta_DDD_L_LBI0T0</value>
+      <webElementGuid>bd046df4-4e5c-4b2d-a7ae-685ebdb0fdf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lote 1</value>
+      <webElementGuid>ea029050-1769-4b93-8a84-8d2adee1192d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xrpnlLote_xddlLoteHasta_DDD_L_LBI0T0&quot;)</value>
+      <webElementGuid>91c7dd9f-0674-4d7b-919f-c99c40a87927</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='xrpnlLote_xddlLoteHasta_DDD_L_LBI0T0']</value>
+      <webElementGuid>7919be6f-33f0-4313-bfb4-3dacc8f44542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='xrpnlLote_xddlLoteHasta_DDD_L_LBT']/tbody/tr/td</value>
+      <webElementGuid>d6033900-59bc-4244-9741-efab19be88fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasta'])[1]/following::td[8]</value>
+      <webElementGuid>c30a818d-7fe6-4030-ad10-09de718810e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargando…'])[2]/following::td[9]</value>
+      <webElementGuid>bc2c9a03-23ad-4c7e-b296-039e358aefb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lote 2'])[2]/preceding::td[1]</value>
+      <webElementGuid>42678798-501e-48b3-92b6-9a331ae05d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lote 3'])[2]/preceding::td[2]</value>
+      <webElementGuid>3fdbaca8-f467-49fb-b315-dd517039d5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/table/tbody/tr/td/div/div/div/div/table/tbody/tr/td/div/table[2]/tbody/tr/td</value>
+      <webElementGuid>437e7432-1038-43bd-a652-879cb5c2c6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'xrpnlLote_xddlLoteHasta_DDD_L_LBI0T0' and (text() = 'Lote 1' or . = 'Lote 1')]</value>
+      <webElementGuid>db4ded68-f9b4-4f95-b7f0-a3cf6148c273</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

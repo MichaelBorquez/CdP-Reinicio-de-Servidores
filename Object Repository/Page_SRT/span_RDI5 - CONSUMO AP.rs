@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_RDI5 - CONSUMO AP</name>
+   <tag></tag>
+   <elementGuidId>c625c21b-5961-4002-992a-830355d7466c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[2]/div/div/div/mat-option[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-11 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14c1efd2-9201-4538-8d24-af83046e6e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>ddf067fe-93e4-4f1d-ba4a-ead866a1f709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> RDI5 - CONSUMO AP </value>
+      <webElementGuid>2af9eeb1-1794-45a8-9c75-cc79ad918580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-11&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>ab7b625a-af26-433c-ae59-e1c6260cc1dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-11']/span</value>
+      <webElementGuid>e8de7c9d-bd08-42e4-b903-06c47e50ba05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RDI3 - GRAFICA VARIABLES DISTRIBUCION'])[1]/following::span[1]</value>
+      <webElementGuid>ba2233e9-39c0-4c12-a048-b5a7e44d8d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RDI2 - VARIABLES DISTRIBUCION ERP'])[1]/following::span[2]</value>
+      <webElementGuid>6a419950-72dd-4a95-8dd8-b5d954cad42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RDI5 - CONSUMO AP']/parent::*</value>
+      <webElementGuid>324b597c-a23e-419e-b3b2-6381fbf88c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[5]/span</value>
+      <webElementGuid>b1f06a1b-587a-4ee6-bd21-5c20592c5034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' RDI5 - CONSUMO AP ' or . = ' RDI5 - CONSUMO AP ')]</value>
+      <webElementGuid>143caadb-eb4c-440c-babb-adc148e85173</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

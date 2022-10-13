@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Ciclo 284- (202208)</name>
+   <tag></tag>
+   <elementGuidId>71201d25-1bd5-47b7-9338-0e548bbcdb08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='xrpnlLote_xddlCiclo_DDD_L_LBI1T0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#xrpnlLote_xddlCiclo_DDD_L_LBI1T0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>560947bf-4356-48c4-a59b-26380af8f42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxeListBoxItem_Office2010Blue dxeListBoxItemHover_Office2010Blue dxeListBoxItemSelected_Office2010Blue</value>
+      <webElementGuid>dde60b73-0489-41c8-a8fa-1943025c22a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xrpnlLote_xddlCiclo_DDD_L_LBI1T0</value>
+      <webElementGuid>cea6cab3-ec14-4328-896a-8f5df46520e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ciclo 284- (202208)</value>
+      <webElementGuid>d78c5d48-cc1e-49f2-8739-60f6197168ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xrpnlLote_xddlCiclo_DDD_L_LBI1T0&quot;)</value>
+      <webElementGuid>dc9422e7-8de1-492e-815b-cfe466bd32e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='xrpnlLote_xddlCiclo_DDD_L_LBI1T0']</value>
+      <webElementGuid>1c88b5e0-4def-46cf-9ad3-a09a4534a85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='xrpnlLote_xddlCiclo_DDD_L_LBT']/tbody/tr[2]/td</value>
+      <webElementGuid>99e0da40-9fd2-40fa-b694-4855eb703680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciclo 285- (202209)'])[1]/following::td[1]</value>
+      <webElementGuid>f5d05269-5137-4c9b-b6ff-ee321cf1b6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciclo'])[1]/following::td[9]</value>
+      <webElementGuid>39bf9f9b-4bc9-45c8-a9ef-5a56b9b08ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciclo 283- (202207)'])[1]/preceding::td[1]</value>
+      <webElementGuid>f9c1cc0c-6f9f-495b-be39-34d24e74f71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciclo 282- (202206)'])[1]/preceding::td[2]</value>
+      <webElementGuid>ac992cfa-c8a5-471b-8bcb-db8257678876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ciclo 284- (202208)']/parent::*</value>
+      <webElementGuid>3306289b-3267-4681-aa7c-354b351efe88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr[2]/td</value>
+      <webElementGuid>755d4b42-a51d-438c-9d08-c02c14bb0f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'xrpnlLote_xddlCiclo_DDD_L_LBI1T0' and (text() = 'Ciclo 284- (202208)' or . = 'Ciclo 284- (202208)')]</value>
+      <webElementGuid>4bc79ba0-eaae-4d29-9aa1-01c742961b11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

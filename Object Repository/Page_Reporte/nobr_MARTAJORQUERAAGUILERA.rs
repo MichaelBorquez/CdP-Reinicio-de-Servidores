@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nobr_MARTAJORQUERAAGUILERA</name>
+   <tag></tag>
+   <elementGuidId>49733c15-bbc7-4deb-b813-ec8dd6401580</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/table/tbody/tr[17]/td[5]/nobr</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>7433c363-1475-46b2-8656-a2cb95c5552d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MARTA JORQUERA AGUILERA</value>
+      <webElementGuid>617e2190-91f5-4ee7-b7f0-45ff43fed68e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;report_div&quot;)/div[@class=&quot;page-background-color-holder&quot;]/table[1]/tbody[1]/tr[17]/td[@class=&quot;cs36FF8CA3&quot;]/nobr[1]</value>
+      <webElementGuid>a8868f89-ceec-4c98-82bd-4d3e34351d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Reporte/iframe_Cargando_xdocView_Splitter_Viewer_Co_be9726</value>
+      <webElementGuid>81d98327-8f73-446b-9f30-6f9d927fdfb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='report_div']/div/table/tbody/tr[17]/td[5]/nobr</value>
+      <webElementGuid>86bf0298-3a5b-4005-b29e-c712f86e243b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sector 1'])[1]/following::nobr[3]</value>
+      <webElementGuid>3f058e60-adaf-48e2-ba3c-353e60318ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sector:'])[1]/following::nobr[5]</value>
+      <webElementGuid>bacb2813-b2c7-4bbb-a2fd-c0206d537a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCHA RAYADA 3591'])[1]/preceding::nobr[1]</value>
+      <webElementGuid>c375010a-b10d-4228-acab-0d5d48cab7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[17]/td[5]/nobr</value>
+      <webElementGuid>1b951edd-ead4-43f9-a7b0-b16dc1bb9bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nobr[(text() = ' MARTA JORQUERA AGUILERA' or . = ' MARTA JORQUERA AGUILERA')]</value>
+      <webElementGuid>d9edcb71-b2de-4105-b8ac-d42f8cb99efb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

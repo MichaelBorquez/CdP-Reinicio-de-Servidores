@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Aguas Magallanes</name>
+   <tag></tag>
+   <elementGuidId>d5746103-460a-41e4-9cc1-5cd5be977434</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='xddlEmpresa_DDD_L_LBI3T0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#xddlEmpresa_DDD_L_LBI3T0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9e35f2c2-1ee1-434a-b2ff-710cbe3f3b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxeListBoxItem_Office2010Blue dxeListBoxItemHover_Office2010Blue dxeListBoxItemSelected_Office2010Blue</value>
+      <webElementGuid>0fc07621-5ca0-430d-9bf7-13818b43df85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xddlEmpresa_DDD_L_LBI3T0</value>
+      <webElementGuid>958e5e9b-73f8-4417-8661-9a8e27dcbb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aguas Magallanes</value>
+      <webElementGuid>e9ebee8a-9799-424e-95b5-360c19e81235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xddlEmpresa_DDD_L_LBI3T0&quot;)</value>
+      <webElementGuid>296a2920-79dd-438c-8e17-aa1b3539b326</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='xddlEmpresa_DDD_L_LBI3T0']</value>
+      <webElementGuid>c6afacb9-ab4b-41fe-a448-122b71ef221f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='xddlEmpresa_DDD_L_LBT']/tbody/tr[4]/td</value>
+      <webElementGuid>e10a7974-3e66-419a-92ae-09acf1240c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aguas del Altiplano'])[1]/following::td[1]</value>
+      <webElementGuid>e850566e-340c-4e73-9cbe-481708f5bde6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aguas Araucanía'])[1]/following::td[2]</value>
+      <webElementGuid>a5a7da75-5e4c-4063-8afd-da3bb909e65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nueva Atacama'])[1]/preceding::td[1]</value>
+      <webElementGuid>e2c31724-680d-4201-a36f-cc174ed5dcdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aguas Nuevas'])[1]/preceding::td[2]</value>
+      <webElementGuid>a1471dd0-4537-4568-a48e-821f86bbb2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aguas Magallanes']/parent::*</value>
+      <webElementGuid>1fcf41d3-1c29-411e-a892-9d01af54afdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr[4]/td</value>
+      <webElementGuid>39fd360c-7240-4146-a66d-09b974b389a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'xddlEmpresa_DDD_L_LBI3T0' and (text() = 'Aguas Magallanes' or . = 'Aguas Magallanes')]</value>
+      <webElementGuid>aba53c33-4659-4f60-bd64-0b01cee04753</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
