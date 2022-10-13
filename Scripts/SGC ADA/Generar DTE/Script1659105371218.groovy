@@ -50,13 +50,14 @@ WebUI.click(findTestObject('Object Repository/Page_Ejecucin de Proceso/div_Ejecu
 
 WebUI.acceptAlert()
 
-WebUI.delay(10)
+WebUI.delay(20)
 
 WebUI.click(findTestObject('Object Repository/Page_Ejecucin de Proceso/div_Guardar DTE'))
 
-WebUI.delay(15)
+WebUI.delay(8)
 
 WebUI.closeBrowser()
+
 //obtener variable fecha
 use(TimeCategory, { 
         today = new Date()

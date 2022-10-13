@@ -49,7 +49,7 @@ WebUI.delay(3)
 
 WebUI.closeBrowser()
 
-String excelFile01 = 'C:\\Users\\csala\\Downloads\\Informe.csv'
+String excelFile01 = GlobalVariable.Ruta_Descargas+'Informe.csv'
 
 File File01 = new File(excelFile01)
 

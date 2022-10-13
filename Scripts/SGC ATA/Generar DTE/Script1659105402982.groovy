@@ -23,13 +23,13 @@ import com.kms.katalon.core.configuration.RunConfiguration as RC
 import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
 
 if (RC.getExecutionProfile() == 'QA') {
-	WebUI.callTestCase(findTestCase('SGC ATA/Login QA'), [:], FailureHandling.STOP_ON_FAILURE)
+    WebUI.callTestCase(findTestCase('SGC ATA/Login QA'), [:], FailureHandling.STOP_ON_FAILURE)
 } else {
-	if (RC.getExecutionProfile() == 'Productivo') {
-		WebUI.callTestCase(findTestCase('SGC ATA/LoginProductivo'), [:], FailureHandling.STOP_ON_FAILURE)
-	} else {
-		assert false
-	}
+    if (RC.getExecutionProfile() == 'Productivo') {
+        WebUI.callTestCase(findTestCase('SGC ATA/LoginProductivo'), [:], FailureHandling.STOP_ON_FAILURE)
+    } else {
+        assert false
+    }
 }
 
 WebUI.delay(2)
@@ -50,28 +50,28 @@ WebUI.click(findTestObject('Object Repository/Page_Ejecucin de Proceso/div_Ejecu
 
 WebUI.acceptAlert()
 
-WebUI.delay(10)
+WebUI.delay(20)
 
 WebUI.click(findTestObject('Object Repository/Page_Ejecucin de Proceso/div_Guardar DTE'))
 
-WebUI.delay(4)
+WebUI.delay(8)
 
 WebUI.closeBrowser()
 
 //obtener variable fecha
-use(TimeCategory, {
-		today = new Date()
-	})
+use(TimeCategory, { 
+        today = new Date()
+    })
 
 todayFormat = today.format('yyyy-MM')
 
-File file = new File((GlobalVariable.Ruta_Descargas+'AT-' + todayFormat) + '-01-39.txt')
+File file = new File(((GlobalVariable.Ruta_Descargas + 'AT-') + todayFormat) + '-01-39.txt')
 
 String text = FileUtils.readFileToString(file)
 
 println(text)
 
 if (text.contains('Atacama') == false) {
-	assert false
+    assert false
 }
 
