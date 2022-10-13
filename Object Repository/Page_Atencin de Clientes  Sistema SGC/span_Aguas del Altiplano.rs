@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aguas del Altiplano</name>
+   <tag></tag>
+   <elementGuidId>e0c320c8-c995-4148-b28b-d97294487206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_lblEmpresa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_lblEmpresa']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c19a0a0-8594-421d-abc2-f1b395a370e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_lblEmpresa</value>
+      <webElementGuid>171c6d56-0485-4bbb-8c44-9ed2d7f47e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aguas del Altiplano</value>
+      <webElementGuid>2c5637f2-962b-491f-b96c-bdf60071a84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_lblEmpresa&quot;)</value>
+      <webElementGuid>84d6f53a-5180-494b-a6e8-cab75e0255e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_lblEmpresa']</value>
+      <webElementGuid>0fc3f921-45f7-4de1-b6c0-a4180e5ba8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-datos-empresa']/div[2]/span</value>
+      <webElementGuid>39c58976-72b7-4c37-9972-a1656087cdb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gonzalez Gutierrez Luis Marcelo'])[1]/following::span[1]</value>
+      <webElementGuid>7ebe3871-71c1-41f1-b382-e1d0d15e4a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[1]</value>
+      <webElementGuid>6df9a972-07fd-4d75-8ff5-89ebbfb579b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aguas del Altiplano']/parent::*</value>
+      <webElementGuid>754a8b81-da3e-4f90-ad8f-d94fb497c22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/span</value>
+      <webElementGuid>987c3d05-f204-402d-b7a1-0f4d9fb7269a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_lblEmpresa' and (text() = 'Aguas del Altiplano' or . = 'Aguas del Altiplano')]</value>
+      <webElementGuid>6201df5d-29ad-4d44-a3dc-396188b7cc31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

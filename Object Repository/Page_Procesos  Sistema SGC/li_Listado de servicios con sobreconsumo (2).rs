@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Listado de servicios con sobreconsumo (2)</name>
+   <tag></tag>
+   <elementGuidId>239f2b0f-2bb3-4941-b5c7-2ec6ab63c282</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ctl00_xcpnMenu_xmenMenuHor_DXI2i2i7_']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_xcpnMenu_xmenMenuHor_DXI2i2i7_</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4ae82a28-f66d-4e03-b835-6161ea3001b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxm-item dxm-hovered</value>
+      <webElementGuid>8782ee9b-e458-4568-a8d9-0bad52649e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_xcpnMenu_xmenMenuHor_DXI2i2i7_</value>
+      <webElementGuid>e37f1b79-0028-494b-9d0f-3a09a236e99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Listado de servicios con sobreconsumo</value>
+      <webElementGuid>17fbb075-6ac3-4621-be4f-ab441eacb1c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_xcpnMenu_xmenMenuHor_DXI2i2i7_&quot;)</value>
+      <webElementGuid>6c12a1a5-ce7b-4237-97bb-486764fdfb35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='ctl00_xcpnMenu_xmenMenuHor_DXI2i2i7_']</value>
+      <webElementGuid>f61eee9c-3211-466d-a55a-12b89c33092a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_xcpnMenu_xmenMenuHor_DXME2i2_']/ul/li[15]</value>
+      <webElementGuid>ebc43157-9c86-4a11-a41b-23440f8f400a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listado de consumos descontables proxima facturación'])[1]/following::li[2]</value>
+      <webElementGuid>e2252726-4e99-40b1-92c3-95ca14a8e017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listado de advertencias del cálculo de consumo: según clave lectura'])[1]/following::li[4]</value>
+      <webElementGuid>fec15098-b564-4c5a-8c6a-b4f82d122636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceso de carta'])[1]/preceding::li[1]</value>
+      <webElementGuid>254d7692-82eb-4f15-a0fc-6f4414e1933a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/ul/li[15]</value>
+      <webElementGuid>237138f5-3fdf-40c6-9f74-ee5cc0ee4585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'ctl00_xcpnMenu_xmenMenuHor_DXI2i2i7_' and (text() = 'Listado de servicios con sobreconsumo' or . = 'Listado de servicios con sobreconsumo')]</value>
+      <webElementGuid>fc1e50d1-6edf-4af5-b5c9-d57888f7b703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

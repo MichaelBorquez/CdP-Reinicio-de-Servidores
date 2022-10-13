@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aguas Magallanes</name>
+   <tag></tag>
+   <elementGuidId>efda613c-5c3c-426d-9eb9-ade2edbe6375</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_lblEmpresa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_lblEmpresa']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>551c79ee-cf69-4fb9-83d5-2770918ef039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_lblEmpresa</value>
+      <webElementGuid>cbabf903-2165-4ac4-a936-15b6346f55e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aguas Magallanes</value>
+      <webElementGuid>f90e1be7-b4af-4868-8260-d0af75c3c189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_lblEmpresa&quot;)</value>
+      <webElementGuid>ff7643a0-580f-425d-9fb6-a6c2fc7cea06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_lblEmpresa']</value>
+      <webElementGuid>93ce8fe6-c89e-4cd5-886d-376b674d319d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-datos-empresa']/div[2]/span</value>
+      <webElementGuid>92847b45-619f-4fab-bbd1-4d83893fe69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gonzalez Gutierrez Luis Marcelo'])[1]/following::span[1]</value>
+      <webElementGuid>d006da1d-68fa-413b-8eb5-79d485ad7e59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[1]</value>
+      <webElementGuid>bca2a524-e542-44c1-a05c-baf819703079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aguas Magallanes']/parent::*</value>
+      <webElementGuid>faa01553-2e49-4a7a-81d0-55de6b64da86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/span</value>
+      <webElementGuid>d4b4f8f8-e65f-423a-b08e-2c4b83356986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_lblEmpresa' and (text() = 'Aguas Magallanes' or . = 'Aguas Magallanes')]</value>
+      <webElementGuid>a0353760-7b56-4223-913a-157be40bda39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

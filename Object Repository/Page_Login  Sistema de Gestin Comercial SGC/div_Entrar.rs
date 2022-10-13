@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Entrar</name>
+   <tag></tag>
+   <elementGuidId>9a83e2eb-702e-4ea6-a241-0d9b00d6f414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btnxEntrar_CD']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnxEntrar_CD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ac46551-91e4-4d2c-b865-59c13f71a5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxb</value>
+      <webElementGuid>9061c704-155e-4b97-9cab-d0dbba72bb34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnxEntrar_CD</value>
+      <webElementGuid>174bc7ab-a8c3-4074-b905-72bb13a8489d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			
+				
+			Entrar
+		</value>
+      <webElementGuid>dfdafa34-9173-4adf-8a83-92f66c7d6935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnxEntrar_CD&quot;)</value>
+      <webElementGuid>4ca8a213-a515-4468-b35e-baa938263d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='btnxEntrar_CD']</value>
+      <webElementGuid>d0427163-3fb4-4834-88f9-4e6eb2a467e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='btnxEntrar']/div</value>
+      <webElementGuid>184313d1-6004-4a41-8768-148b1c827771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargando…'])[1]/following::div[3]</value>
+      <webElementGuid>59a35f5a-dc1e-4efb-a59a-6146ea563e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Osmoflo'])[1]/following::div[3]</value>
+      <webElementGuid>fced09c4-8b66-4ccf-b155-126330da5fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>59c720d7-ed8f-4e93-8ed8-90b28fbc866c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'btnxEntrar_CD' and (text() = '
+			
+				
+			Entrar
+		' or . = '
+			
+				
+			Entrar
+		')]</value>
+      <webElementGuid>4b8b2da3-ba2a-4d11-b63c-b00f01b4b6f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

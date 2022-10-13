@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aguas Chaar</name>
+   <tag></tag>
+   <elementGuidId>bb026edf-57eb-4c5f-a715-de0009e36030</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_lblEmpresa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_lblEmpresa']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5efe370d-a21c-4c2f-9dab-e61a13667bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_lblEmpresa</value>
+      <webElementGuid>11a3e163-eb2f-46eb-bcb0-9300827c54ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aguas Chañar</value>
+      <webElementGuid>2ed49df2-220b-4f3f-8564-84113f183cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_lblEmpresa&quot;)</value>
+      <webElementGuid>f6ac9ca2-71a7-4b2b-8a3d-bbcceef41879</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_lblEmpresa']</value>
+      <webElementGuid>2d5cc63f-6db4-455b-899d-1d9c2a28e35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-datos-empresa']/div[2]/span</value>
+      <webElementGuid>25f3558d-b3b9-4c6b-b782-daff2d642aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gonzalez Gutierrez Luis Marcelo'])[1]/following::span[1]</value>
+      <webElementGuid>124f9a27-a6e3-4815-89a4-bcfbf5328e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lote en Facturación:'])[1]/preceding::span[2]</value>
+      <webElementGuid>3c289278-31ff-419f-b62a-2d859386499d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aguas Chañar']/parent::*</value>
+      <webElementGuid>8fe8e3c1-5fe5-4ecc-9d2f-b68f3975aad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/span</value>
+      <webElementGuid>c924d2ce-a79f-480a-9ab7-2d0d4f584606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_lblEmpresa' and (text() = 'Aguas Chañar' or . = 'Aguas Chañar')]</value>
+      <webElementGuid>dd38386f-8501-4c1f-a0df-5b3492ce3855</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

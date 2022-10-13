@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Empresa                    Aguas Araucana</name>
+   <tag></tag>
+   <elementGuidId>78e42743-2dd4-4de3-b359-052fc21d1276</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-datos-empresa']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>495db4ac-6fa2-4630-bb1b-6bf3484f68d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Empresa:
+                    Aguas Araucanía
+                    </value>
+      <webElementGuid>c0cdd79d-f2b8-4dd6-ab3a-0f04a984c2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-datos-empresa&quot;)/div[2]</value>
+      <webElementGuid>64b89efa-377c-4406-85aa-61eb87c73007</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-datos-empresa']/div[2]</value>
+      <webElementGuid>b7041526-76c2-46fd-8eca-db055df44e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gonzalez Gutierrez Luis Marcelo'])[1]/following::div[1]</value>
+      <webElementGuid>ed1edef8-734c-41b3-9751-22ea1b06776e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Empresa:']/parent::*</value>
+      <webElementGuid>8b94d5c3-d22d-433e-bb64-9db0372ed50a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]</value>
+      <webElementGuid>d9ac7a24-dc11-4d1f-b697-36efa28d73fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                        Empresa:
+                    Aguas Araucanía
+                    ' or . = '
+                        Empresa:
+                    Aguas Araucanía
+                    ')]</value>
+      <webElementGuid>5d79436e-0c71-42d6-a210-9003332a8212</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
